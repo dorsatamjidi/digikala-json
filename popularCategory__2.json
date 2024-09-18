@@ -1,0 +1,34 @@
+[
+    {
+    "id": 1,
+    "title": "خودکار و روان نویس",
+    "src__1": "./public/images/popularCategory/2-1-1.webp",
+    "src__2": "./public/images/popularCategory/2-1-2.webp",
+    "src__3": "./public/images/popularCategory/2-1-3.webp",
+    "src__4": "./public/images/popularCategory/2-1-4.webp"
+    },
+    {
+    "id": 2,
+    "title": "کیف و کوله مدرسه",
+    "src__1": "./public/images/popularCategory/2-2-1.webp",
+    "src__2": "./public/images/popularCategory/2-2-2.webp",
+    "src__3": "./public/images/popularCategory/2-2-3.webp",
+    "src__4": "./public/images/popularCategory/2-2-4.webp"
+    },
+    {
+    "id": 3,
+    "title": "دفتر",
+    "src__1": "./public/images/popularCategory/2-3-1.webp",
+    "src__2": "./public/images/popularCategory/2-3-2.webp",
+    "src__3": "./public/images/popularCategory/2-3-3.webp",
+    "src__4": "./public/images/popularCategory/2-3-4.webp"
+    },
+    {
+    "id": 4,
+    "title": "چراغ مطالعه",
+    "src__1": "./public/images/popularCategory/2-4-1.webp",
+    "src__2": "./public/images/popularCategory/2-4-2.webp",
+    "src__3": "./public/images/popularCategory/2-4-3.webp",
+    "src__4": "./public/images/popularCategory/2-4-4.webp"
+    }
+    ]

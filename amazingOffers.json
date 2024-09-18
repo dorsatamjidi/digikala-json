@@ -1,0 +1,114 @@
+[
+    {
+    "id": 1,
+    "src": "./public/images/amazingOffers/s1.webp",
+    "off": "6%",
+    "caption": "کنسول بازی مایکروسافت مدل XBOX SERIES S ظرفیت 512 گیگابایت",
+    "price": "18,099,000",
+    "previousprice": "19,300,000"
+    },
+    {
+    "id": 2,
+    "src": "./public/images/amazingOffers/s2.webp",
+    "off": "4%",
+    "caption": "گوشی موبایل آنر مدل Lite 200 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت",
+    "price": "۱۶,۳۹۹,۰۰۰",
+    "previousprice": "۱۶,۹۹۹,۰۰۰"
+    },
+    {
+    "id": 3,
+    "src": "./public/images/amazingOffers/s3.webp",
+    "off": "21%",
+    "caption": "لوستر آویز مدرن چشمه نور کد L6363/1A",
+    "price": "۱,۵۹۹,۰۰۰",
+    "previousprice": "۲,۰۲۱,۰۰۰"
+    },
+    {
+    "id": 4,
+    "src": "./public/images/amazingOffers/s4.webp",
+    "off": "14%",
+    "caption": "ویدئو پروژکتور ونبو مدل X2 Max",
+    "price": "۱۰,۵۹۹,۰۰۰",
+    "previousprice": "۱۲,۲۹۰,۰۰۰"
+    },
+    {
+    "id": 5,
+    "src": "./public/images/amazingOffers/s5.webp",
+    "off": "29%",
+    "caption": "قهوه ساز یورولوکس مدل EU-CM4248DSB",
+    "price": "۵,۷۹۹,۰۰۰",
+    "previousprice": "۸,۱۹۹,۰۰۰"
+    },
+    {
+    "id": 6,
+    "src": "./public/images/amazingOffers/s6.webp",
+    "off": "28%",
+    "caption": "ساج سفری ساج وک مدل pro-02 به همراه توری گریل",
+    "price": "۴۶۹,۰۰۰",
+    "previousprice": "۴۶۹,۰۰۰"
+    },
+    {
+    "id": 7,
+    "src": "./public/images/amazingOffers/s7.webp",
+    "off": "60%",
+    "caption": "لپ تاپ 15.6 اینچی اچ‌ پی مدل fc0026nia-R3 7320U-8GB LPDDR5-512SSD-IPS - کاستوم شده",
+    "price": "۱۹,۱۹۹,۰۰۰",
+    "previousprice": "۲۰,۴۹۹,۰۰۰"
+    },
+    {
+    "id": 8,
+    "src": "./public/images/amazingOffers/s8.webp",
+    "off": "21%",
+    "caption": "ساعت هوشمند سامسونگ مدل Galaxy Watch 7 44mm",
+    "price": "۱۴,۳۹۹,۰۰۰",
+    "previousprice": "۱۸,۲۰۰,۰۰۰"
+    },
+    {
+    "id": 9,
+    "src": "./public/images/amazingOffers/s9.webp",
+    "off": "69%",
+    "caption": "برس حرارتی کیمی مدل KM-1330 EXCELLENT",
+    "price": "۱,۲۹۰,۰۰۰",
+    "previousprice": "۴,۱۹۰,۰۰۰"
+    },
+    {
+    "id": 10,
+    "src": "./public/images/amazingOffers/s10.webp",
+    "off": "45%",
+    "caption": "کوله پشتی بچگانه مدل C 141 - 1 به همراه کیف دستی",
+    "price": "۷۵۹,۰۰۰",
+    "previousprice": "۱,۳۹۰,۰۰۰"
+    },
+    {
+    "id": 11,
+    "src": "./public/images/amazingOffers/s11.webp",
+    "off": "30%",
+    "caption": "قهوه سبز فوری مولتی کافه تندرستی - 2 گرم بسته 30 عددی",
+    "price": "۱۴۷,۰۰۰",
+    "previousprice": "۲۱۰,۰۰۰"
+    },
+    {
+    "id": 12,
+    "src": "./public/images/amazingOffers/s12.webp",
+    "off": "10%",
+    "caption": "کرم پودر بایو آکوا مدل Natural حجم 30 میلی لیتر",
+    "price": "۱۹۰,۸۸۰",
+    "previousprice": "۲۱۲,۱۱۰"
+    },
+    {
+    "id": 13,
+    "src": "./public/images/amazingOffers/s13.webp",
+    "off": "4%",
+    "caption": "گوشی موبایل آنر مدل X6b دو سیم کارت ظرفیت 128 گیگابایت و رم 6 گیگابایت",
+    "price": "۷,۶۹۹,۰۰۰",
+    "previousprice": "۷,۹۹۰,۰۰۰"
+    },
+    {
+    "id": 14,
+    "src": "./public/images/amazingOffers/s14.webp",
+    "off": "71%",
+    "caption": "ادوپرفیوم دنا مدل کوکوته کد 600351 حجم 100 میلی‌لیتر",
+    "price": "۲۶۰,۹۸۰",
+    "previousprice": "۸۹۹,۹۰۰"
+    }
+    ]

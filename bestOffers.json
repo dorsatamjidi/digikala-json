@@ -1,0 +1,128 @@
+[
+    {
+    "id": 1,
+    "src": "./public/images/bestOffers/p1.webp",
+    "off": "4%",
+    "price": "۲۵,۳۹۹,۰۰۰",
+    "previousprice": "۲۶,۴۰۰,۰۰۰"
+    },
+    {
+    "id": 2,
+    "src": "./public/images/bestOffers/p2.webp",
+    "off": "41%",
+    "price": "۹,۹۹۰,۰۰۰",
+    "previousprice": "۱۶,۹۰۰,۰۰۰"
+    },
+    {
+    "id": 3,
+    "src": "./public/images/bestOffers/p3.webp",
+    "off": "11%",
+    "price": "۲,۲۹۰,۰۰۰",
+    "previousprice": "۲,۵۸۴,۰۰۰"
+    },
+    {
+    "id": 4,
+    "src": "./public/images/bestOffers/p4.webp",
+    "off": "20%",
+    "price": "۳,۸۹۰,۰۰۰",
+    "previousprice": "۴,۸۴۰,۰۰۰"
+    },
+    {
+    "id": 5,
+    "src": "./public/images/bestOffers/p5.webp",
+    "off": "31%",
+    "price": "۳۳۰,۰۰۰",
+    "previousprice": "۴۷۹,۰۰۰"
+    },
+    {
+    "id": 6,
+    "src": "./public/images/bestOffers/p6.webp",
+    "off": "42%",
+    "price": "۱,۵۲۱,۰۰۰",
+    "previousprice": "۲,۶۰۰,۰۰۰"
+    },
+    {
+    "id": 7,
+    "src": "./public/images/bestOffers/p7.webp",
+    "off": "9%",
+    "price": "۳,۲۷۷,۰۰۰",
+    "previousprice": "۳,۵۸۹,۶۰۰"
+    },
+    {
+    "id": 8,
+    "src": "./public/images/bestOffers/p8.webp",
+    "off": "29%",
+    "price": "۱,۵۶۰,۰۰۰",
+    "previousprice": "۲,۲۰۰,۰۰۰"
+    },
+    {
+    "id": 9,
+    "src": "./public/images/bestOffers/p9.webp",
+    "off": "78%",
+    "price": "۳۹,۰۰۰",
+    "previousprice": "۱۸۰,۰۰۰"
+    },
+    {
+    "id": 10,
+    "src": "./public/images/bestOffers/p10.webp",
+    "off": "18%",
+    "price": "۴۹,۲۸۷,۰۰۰",
+    "previousprice": "۶۰,۲۳۴,۰۰۰"
+    },
+    {
+    "id": 11,
+    "src": "./public/images/bestOffers/p11.webp",
+    "off": "49%",
+    "price": "۴,۹۹۰,۰۰۰",
+    "previousprice": "۹,۷۰۰,۰۰۰"
+    },
+    {
+    "id": 12,
+    "src": "./public/images/bestOffers/p12.webp",
+    "off": "7%",
+    "price": "۳,۹۹۰,۰۰۰",
+    "previousprice": "۴,۳۰۰,۰۰۰"
+    },
+    {
+    "id": 13,
+    "src": "./public/images/bestOffers/p13.webp",
+    "off": "5%",
+    "price": "۱۶,۱۹۰,۰۰۰",
+    "previousprice": "۱۷,۰۵۰,۰۰۰"
+    },
+    {
+    "id": 14,
+    "src": "./public/images/bestOffers/p14.webp",
+    "off": "57%",
+    "price": "۵۹۹,۰۰۰",
+    "previousprice": "۱,۳۹۹,۰۰۰"
+    },
+    {
+    "id": 15,
+    "src": "./public/images/bestOffers/p15.webp",
+    "off": "21%",
+    "price": "۱,۵۷۹,۰۰۰",
+    "previousprice": "۱,۹۹۹,۰۰۰"
+    },
+    {
+    "id": 16,
+    "src": "./public/images/bestOffers/p16.webp",
+    "off": "16%",
+    "price": "۲,۷۹۰,۰۰۰",
+    "previousprice": "۳,۳۱۰,۰۰۰"
+    },
+    {
+    "id": 17,
+    "src": "./public/images/bestOffers/p17.webp",
+    "off": "64%",
+    "price": "۳,۹۹۹,۰۰۰",
+    "previousprice": "۱۱,۲۰۰,۰۰۰"
+    },
+    {
+    "id": 18,
+    "src": "./public/images/bestOffers/p18.webp",
+    "off": "10%",
+    "price": "۳,۸۳۹,۰۰۰",
+    "previousprice": "۴,۲۴۵,۰۰۰"
+    }
+    ]

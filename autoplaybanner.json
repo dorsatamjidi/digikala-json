@@ -1,0 +1,30 @@
+[
+    {
+    "id": 1,
+    "src": "./public/images/autoplayBanner/slide1.webp"
+    },
+    {
+    "id": 2,
+    "src": "./public/images/autoplayBanner/slide2.webp"
+    },
+    {
+    "id": 3,
+    "src": "./public/images/autoplayBanner/slide3.webp"
+    },
+    {
+    "id": 4,
+    "src": "./public/images/autoplayBanner/slide4.webp"
+    },
+    {
+    "id": 5,
+    "src": "./public/images/autoplayBanner/slide5.webp"
+    },
+    {
+    "id": 6,
+    "src": "./public/images/autoplayBanner/slide6.webp"
+    },
+    {
+    "id": 7,
+    "src": "./public/images/autoplayBanner/slide7.webp"
+    }
+    ]
